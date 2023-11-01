@@ -1,0 +1,6 @@
+__pycache__
+venv/
+.vscode
+main_SQL.py
+.env
+*.sql
